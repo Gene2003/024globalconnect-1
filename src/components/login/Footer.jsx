@@ -8,10 +8,12 @@ const Footer = () => {
           <h3 className="text-lg font-semibold mb-4">024 GLOBAL CONNECT</h3>
           <p>Empowering communities through innovative digital solutions across Africa.</p>
           <div className="flex gap-3 mt-4">
-            <a href="#"><i className="fab fa-facebook-f text-xl"></i></a>
-            <a href="#"><i className="fab fa-twitter text-xl"></i></a>
-            <a href="#"><i className="fab fa-linkedin-in text-xl"></i></a>
-            <a href="#"><i className="fab fa-instagram text-xl"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=61577324699595"><i className="fab fa-facebook-f text-xl"></i></a>
+            <a href="https://x.com/024Global"><i className="fab fa-twitter text-xl"></i></a>
+            <a href="https://www.linkedin.com/company/107689468/admin/dashboard/"><i className="fab fa-linkedin-in text-xl"></i></a>
+            <a href="https://www.instagram.com/024globalconnect/"><i className="fab fa-instagram text-xl"></i></a>
+            <a href="https://www.tiktok.com/@024globalconnect?lang=en"><i className="fab fa-tiktok text-x1"></i></a>
+            <a href="https://www.youtube.com/@024GlobalConnect"><i className="fab fa-youtube text-xl"></i></a>
           </div>
         </div>
         <div>
